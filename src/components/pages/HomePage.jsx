@@ -44,7 +44,7 @@ export default function HomePage() {
             <input
               type="text"
               className="text-sm md:text-md grow"
-              placeholder="What d you want cook today?"
+              placeholder="What you gonna cook today?"
             />
           </label>
         </form>
